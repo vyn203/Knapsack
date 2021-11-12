@@ -1,0 +1,1 @@
+The knapsack problem pulls out subsets of weights from a bag such that the total weight is some specified total weight.
